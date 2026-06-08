@@ -1,2 +1,9 @@
-# Connect-With-Me
-B.Tech Computer Engineering Student | Web Developer | Learning AI and Data Analytics
+📫 Connect With Me
+
+Mital Prajapati
+
+GitHub: https://github.com/mital-tech
+Email: prajapatimital2498@gmail.com
+LinkedIn: Add your LinkedIn profile link here
+
+Feel free to connect with me for collaboration, project discussions, or learning opportunities.
